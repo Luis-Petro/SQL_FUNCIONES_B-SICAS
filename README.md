@@ -2,7 +2,7 @@
 Documentos del talller de funciones básicas SQL
 
 Para importar la base de datos cree primero una base de datos con nombre 
-"universidad", luego ya estando dentro de esta vamos al apartado importar 
+"universidad" en phpmyadmin, luego ya estando dentro de esta vamos al apartado importar 
 y seleccionamos el archivo universidad.sql 
 
 también encontrarás un pdf con información de funciones bácicas SQL, un pdf
